@@ -1,5 +1,6 @@
 # Netflix-Clone
 Website Link :- file:///D:/coderrr/Netflix_Clone/Netflix_landing_page/index.html
+
 A Netflix clone project created by Atufa Akhtar (https://github.com/atufaakhtar) and me. The project replicates the Netflix interface and functionality using HTML, CSS, APIs and javascript.
 
 Introduction The Netflix Clone project is a collaborative effort between Atufa Akhtar (https://github.com/atufaakhtar) and me. It aims to recreate the Netflix experience, providing users with a familiar interface and functionality. The project was developed using HTML, CSS, Javascript and Apis.
